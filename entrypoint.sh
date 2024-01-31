@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "Hello from GHCR"
+echo "Hello from GHCR -----"
